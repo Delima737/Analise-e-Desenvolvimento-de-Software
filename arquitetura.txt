@@ -1,0 +1,107 @@
+AULA ATIVIDADE ALUNO
+Exercício Proposto
+01. Exercícios Fundamentos de sistemas computacionais, responda as letras a, b, c e d.
+a) Em que consiste o sistema binário?
+
+sistema de codificação usando a combinação dos digitos 1 e 0.
+
+b) Conceitue KB, MB, GB e TB, faça a tabela de equivalência entre eles.
+
+eu compararia a unidades de medidas de distancia
+quilômetro → km
+
+hectômetro → hm
+
+decâmetro → dam
+
+metro → m
+
+decímetro → dm
+
+centímetro → cm
+
+milímetro → mm"
+
+porem em bytes
+
+c) De um exemplo para cada nível da hierarquia abaixo:
+nivel 6 -> Alguem	> programas
+nivel 5 -> c#
+nivel 4 ->  Essa linguagem utiliza instruções de baixo nível que operam diretamente com registros e memórias, ou seja, as instruções são diretamente executadas pelo processador.
+MOV R1, R2.
+
+
+nivel 3 -> linux
+nivel 2 -> microcodigos arduino
+nivel 1 -> 
+
+
+
+
+
+02. Exercícios Fundamentos de sistemas computacionais, responda as letras a, b e c.
+a) Qual é a função de uma placa-mãe?
+cerebro do computador, que faz a conexão entre todos os componentes
+
+
+b) O que são os dispositivos de entrada e saída, e quais suas contribuições?
+teclado, caixa de som..... interação entre usuario e maquina
+
+
+c) Quais são as cinco gerações de computadores e quais tecnologias construtivas as impulsionaram?
+
+Válvulas termiônicas 	ENIAC Univac
+Diodos Transistores 	pdp-1
+circuitos integrados	ibm 360 univac 1108
+microprocessadores	Apple, machintosh, ibm 286-586
+***********************************
+Inteligência artificial Computadores quânticos Nanotecnologia Multiprocessadores	 > celular, laptop,computador quantico	
+
+03. Exercícios Fundamentos de sistemas computacionais, responda as letras a, b e c.
+a) Quais situações impulsionaram a popularização dos computadores?
+
+redução dos custos de produção e a evolução dos sistemas operacionais e softwares de aplicação  Mais acessibilidade
+
+b) Qual a principal característica da arquitetura von Neumann?
+
+possibilidade de uma máquina digital armazenar seus programas no mesmo espaço de memória que os dados,
+
+c) Cite três computadores da primeira geração.
+
+ENIAC Univac edvac
+
+04. Exercícios Fundamentos de sistemas computacionais, responda as letras a, b e c.
+a) Fale sobre o impacto da invenção do transistor na popularização dos computadores.
+
+b) Quais são as diferenças entre transistores, válvulas e circuito integrado?
+
+ Válvula são dispositivos responsáveis pela condução ou não de corrente elétrica, fazem
+parte da 1ª geração de computadores, no século XX. Um exemplo de computador dessa geração é o
+ENIAC, considerado o primeiro grande computador digital, possui cerca de 18 mil válvulas. Os
+transistores fazem parte da 2ª geração de computadores, o primeiro foi criado em 1947, possuem
+as mesmas aplicabilidades das válvulas, porém com muito mais confiabilidade, ocupando menos
+espaço, reduzindo custos e consumindo menos energia. O primeiro modelo de computador com
+transistor é o TRADIC. A partir de 1965 começou a 3ª geração de computadores onde os
+transistores foram substituídos pelos circuitos integrados, que são minúsculos transistores e outros
+componentes reunidos numa única pastilha de silício, o chip. Essa tecnologia deu possibilidade do
+surgimento de computadores menores, mais rápidos e menos caros. Um exemplo de computador
+dessa geração foi o IBM 360. A partir disso surgiram ainda mais duas gerações.
+
+
+c) Quais são os três módulos que compõem a arquitetura von Neumann?
+
+ sistema central de processamento, sistema de memória e sistema de entrada/saída.
+ 
+ 
+AULA ATIVIDADE ALUNO
+05. Exercícios Fundamentos de sistemas computacionais, responda as letras a, b e c.
+a) Qual a função da ULA na arquitetura von Neumann?
+
+transcodificação > realizar operações com dados binários;
+
+b) Qual a função da UC na arquitetura von Neumann?
+
+seria uma rua que interliga entre bairros > direciona o fluxo de dados entre a CPU e os outros componentes do computador
+
+c) Explique o que é linguagem/código de máq
+sequencia binaria de usado pelo computador para expressar um dado
